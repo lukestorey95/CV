@@ -1,20 +1,23 @@
+<div style="text-align:center;">
+
 # Luke Storey
 
-[About me](#about_me)) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+[About me](#about_me)   | [Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) |  [Interests](#interests)
 
-## <a name="about_me"></a>
+</div>
+
+## <a name="about_me">What I'm about</a>
 
 Hi I'm Luke and I'm a hungry Software Engineer who has recently completed Makers Academy and is looking to bring my passion for learning, understanding of solid engineering principles, rigorous testing and methodological debugging to an exciting new role.
 
-I have a background as an entrepreneur, and recent experience at a tech company going above and beyond my role by optimising longstanding business processes, collaborating with product managers and engineers on new feature releases and improving bug resolution and testing across the company.
+I have a background as an entrepreneur (pizza-preneur), and recent experience at a tech company going above and beyond my role by optimising longstanding business processes, collaborating with product managers and engineers on new feature releases and improving bug resolution and testing across the company.
 
-My biggest strength is my desire to always be learning something new, figuring out a new technology or planning the best solution to a problem. I am highly self reliant, but perform my best when surrounded by a team all working towards a shared goal.
+My biggest strength (and occaisional weakness) is my desire to learn new things, whether it be figuring out a new technology, planning the best solution to a problem. I am highly self reliant, but perform my best when surrounded by a team all working towards a shared goal.
 
 I am proficient across various languages, frameworks and data systems, but am always interested in picking up new technologies.
 
 <br>
 
-<!-- ## Things I've built (projects) -->
 ## <a name="projects">Things I've built (projects)</a>
 
 | Name                                                                 | Description                                                                                                                                                                                                | Tech/tools                                                                     |
@@ -27,7 +30,7 @@ I am proficient across various languages, frameworks and data systems, but am al
 
 <br>
 
-## What I've worked on (experience)
+## <a name="experience">What I've worked on (experience)</a>
 
 **notonthehighstreet.com** (Jul 2019 - Mar 2022)  
 Partner Support Assistant
@@ -55,80 +58,53 @@ Customer Service Supervisor
 
 <br>
 
-## What I'm great at (skills)
-
-<!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill -->
-
+## <a name="skills">What I'm great at (skills)</a>
 
 ### Entrepreneurship 
 
-  After graduating university and being inspired by my love of pizza, I decided to set up and run my own business. I built and trademarked a brand, learnt how to market my product and attract clients, and trained staff to support with large events. I was hired by a number of clients for parties, events and secured a place at a local Christmas market for several months. This was a non stop year of learning, and despite the long hours, continuous pressure and constant deadlines, I absolutely loved every minute. 
-
-<!-- - Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
+After graduating university and being inspired by my love of food, I set up and ran my own pizza making business. I built and trademarked a brand, learnt how to market my product, trained staff, managed inventory and flipped many a pizza. I was hired by a number of clients for parties, events and even secured a place at a London Christmas market across the winter period. This was a non stop year of learning, and despite the long hours, financial pressure and constant deadlines, I absolutely loved every minute. I learnt so much about myself, how to be self reliant, and how to just get things done even when you have no idea where to start.
 
 <br>
 
-## What I've learnt (education)
+### Project Management
+
+During my time at notonthehighstreet I was always on the look out for extra projects I could take on to continue my learning and make myself stand out within the company. One such project I pitched was to improve the review response rate for purchased products. I layed out the business case and explained the positive impact it would have on conversion rate, provided timeframe estimates and explained the cost and any potential risks. I collaborated with the legal, finance, operations, marketing and design teams as well as external providers and ultimately doubled the response rate overnight upon completion of the project.
+
+### Leadership
+
+Another example of going above and beyond was when I took on a project in support of a new feature release to help retail partners manage their inventory. We had a strict timeframe to persuade a large percentage of partners to use the new system, so I hired and trained a team to support me and set up an outreach program where we would talk through the benefits of the new functionality and offer support in making the switch. I made sure the relevant stakeholders were updated throughout the process, ensured the team were kept motivated and productive throughout. I learnt a lot about managing a team whilst also ensuring the project ran to schedule, and it really highlighted how much I enjoy having goals to strive for and a team to motivate along the way.
+
+<br>
+
+## <a name="education">What I've learnt (education) 👨‍💼</a>
 
 ### Makers Academy (Mar 2022 - Jul 2022)
 
-<!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine -->
-
-- Utilised pair programming, Test Driven Development and Object Orientated Design to develop software with high quality code
+- Learnt how to utilise pair programming, Test Driven Development and Object Orientated Design to develop software with high quality code (and ensure it is easy to read and change)
   
 - Programmed in Ruby, JavaScript, and Python but learnt how to translate into any language (can't wait to do this more)
   
-- Experienced using frontend frameworks, use of Restful APIs and integrating with databases like MongoDB, mySQL and Postgres
+- Experienced using multiple frameworks, use of Restful APIs and integrating with databases like MongoDB, mySQL and Postgres
   
 - Developed passion for learning new technologies & languages, working as part of an agile team and problem solving with tight deadlines
 
+<br>
 
 ### University of Exeter (2014 - 2017)
 BSc Psychology 2:1
 
-- Specialised in social psychology and wrote dissertation on my research analysing factors that predicted support for a social change campaign.
+- Specialised in social psychology and wrote dissertation on my research analysing factors that predicted support for a sexual consent campaign
   
-- Developed data focused mindset & analytical skills by critically examining existing research and completing complex data analysis across multiple projects
+- Developed data focused mindset & analytical skills by critically examining research and performing complex data analysis across multiple data sets
 
 <br>
 
-## What I love to do (interests)
+## <a name="interests">What I love to do (interests)</a>
 
-- Cycling - 
+- Cycling - I can't always be having a coding breakthrough, so getting out on my bike and feeling the wind in my hair is the next best thing and brings me a lot of joy
 
-- Climbing - I have recently picked up bouldering 
-
-- Food & Drink
-Despite not still making pizza professionally I still 
+- Climbing - I have recently picked up bouldering, and can't help but draw comparisons with debugging a tricky bit of code. You have to step back, think through all your options and then keep trying different things until you get to the top
+  
+- Pizza - Despite no longer making pizza professionally I still love to host a pizza party or two, and count myself as an avid foodie (ask me about my dough spreadsheet or V60 recipe if you dare)
 
 
