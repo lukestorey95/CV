@@ -12,7 +12,7 @@ Hi I'm Luke and I'm a hungry Software Engineer who has recently completed Makers
 
 I have a background as an entrepreneur (pizza-preneur), and recent experience at a tech company going above and beyond my role by optimising longstanding business processes, collaborating with product managers and engineers on new feature releases and improving bug resolution and testing across the company.
 
-My biggest strength (and occaisional weakness) is my desire to learn new things, whether it be figuring out a new technology, planning the best solution to a problem. I am highly self reliant, but perform my best when surrounded by a team all working towards a shared goal.
+My biggest strength (and occaisional weakness) is my desire to learn new things, and I never want to stop picking up new skills and technologies. I am highly self reliant, but perform my best when surrounded by a team all working towards a shared goal.
 
 I am proficient across various languages, frameworks and data systems, but am always interested in picking up new technologies.
 
@@ -76,7 +76,7 @@ Another example of going above and beyond was when I took on a project in suppor
 
 <br>
 
-## <a name="education">What I've learnt (education) 👨‍💼</a>
+## <a name="education">What I've learnt (education)</a>
 
 ### Makers Academy (Mar 2022 - Jul 2022)
 
